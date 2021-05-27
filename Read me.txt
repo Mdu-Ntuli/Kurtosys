@@ -1,0 +1,18 @@
+Summary
+
+A simple selenium project to test as per requirement using test automation process.
+
+Program/Software/IDE 
+
+Selenium
+Java
+JUNIT
+Intellij
+
+installation instructions
+
+Intstall JDK 8-100
+Install Intellij IDE
+Install Maven
+
+Just plug and play
